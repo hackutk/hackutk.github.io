@@ -1951,6 +1951,10 @@
 		text-align: center;
 	}
 
+	ul.nested {
+		margin-bottom: 0;
+	}
+
 /* Section/Article */
 
 	section.special, article.special {
