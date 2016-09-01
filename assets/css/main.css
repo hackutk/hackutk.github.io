@@ -2644,6 +2644,10 @@
 		white-space: nowrap;
 	}
 
+	.button.nopadding {
+		padding: 0 0em;
+	}
+
 		input[type="submit"]:hover,
 		input[type="reset"]:hover,
 		input[type="button"]:hover,
@@ -2678,6 +2682,15 @@
 		.button.fit {
 			display: block;
 			margin: 0 0 1em 0;
+			width: 100%;
+		}
+
+		input[type="submit"].fit,
+		input[type="reset"].fit,
+		input[type="button"].fit,
+		.button.fit-no-margin {
+			display: block;
+			margin: 0 0 0em 0;
 			width: 100%;
 		}
 
