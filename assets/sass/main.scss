@@ -1904,3 +1904,16 @@
 			}
 
 	}
+
+// WHY IS THIS ONE FILE!!!! BREAK IT UP! UGH
+.anchor{
+	&:hover{
+		a{
+			display: inline;
+		}
+	}
+	a{
+		margin-left: 1em;
+		display: none;
+	}
+}
