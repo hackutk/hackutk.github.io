@@ -2964,7 +2964,6 @@
 			-webkit-animation: none;
 			-ms-animation: none;
 			animation: none;
-			background: none;
 			color: rgba(255, 255, 255, 0.75);
 			position: absolute;
 		}
@@ -3068,7 +3067,7 @@
 		background-repeat: repeat,							no-repeat;
 		background-size: auto,							cover;*/
 		color: #fff;
-		padding: 12em 0 20em 0;
+		padding: 6em 0 6em 0;
 		text-align: center;
 	}
 
@@ -3164,7 +3163,7 @@
 
 	#footer {
 		background: #f0f0f0;
-		padding: 4em 0 6em 0;
+		padding: 2em 0 2em 0;
 		text-align: center;
 	}
 
@@ -3212,7 +3211,7 @@
 	#cta {
 		background: #00aabb;
 		color: #ffffff;
-		padding: 3.5em 0 4em 0;
+		padding: 4em 0 4em 0;
 		text-align: center;
 	}
 
