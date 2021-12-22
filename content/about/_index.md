@@ -1,14 +1,13 @@
 ---
 ---
 
-
 <section id="main" class="container">
 <header>
 	<h2>About HackUTK</h2>
 	<p>Security is our passion. We teach, compete, and push students forward in computer security.</p>
 </header>
 <div class="box">
-	<span class="image featured"><img src="images/carousel/members.jpg" alt="" /></span>
+	<span class="image featured"><img src="/images/carousel/members.jpg" alt="" /></span>
 	<h3>Who We Are</h3>
 	<p>HackUTK is the resident computer security organization at the <a href="https://www.utk.edu" target="_blank">University of Tennessee, Knoxville</a>. We are an entirely student-run organization that was founded to provide a corner of our university for students interested in learning about and exploring the rapidly changing world of computer security. At our core, we are a group of self-taught security enthusiasts who find a passion in sharing our knowledge with those sincerely interested in learning. We do our best to prepare resources, organize meetings, and host events completely on our own time and at no cost to our members.</p>
 	<h3 class="centered">What We Do</h3>
@@ -33,7 +32,7 @@
 			</div>
 	</div>
 	<h3>Joining HackUTK</h3>
-	<p>If you're a student at UTK and would like to join HackUTK, please fill out <a href="https://goo.gl/forms/WBSZ9DwdjVdICwMf1">this
+	<p>If you're a student at UTK and would like to join HackUTK, please fill out <a href="/signup">this
 	Google form</a> and that's it! It will also ask you to join our mailing list via a quick signup page.
 			<br>
 			<br> We try not to spam, but we're an active organization so you can expect at least one or two emails every two weeks announcing our meetings along with their time and place, as well as any other events like CTF's, industry speakers, special sessions, etc. We may also send out information we receive from our sponsor companies or other companies seeking interns or new graduates to hire that you may want to apply for.</p>
