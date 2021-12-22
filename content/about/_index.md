@@ -1,4 +1,5 @@
 ---
+title: About
 ---
 
 <section id="main" class="container">

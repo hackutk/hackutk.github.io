@@ -1,4 +1,5 @@
 ---
+title: Contact
 ---
 
 <section id="main" class="container 75%">

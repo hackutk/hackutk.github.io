@@ -1,4 +1,5 @@
 ---
+title: Calendar
 ---
 
 <section id="main" class="container">

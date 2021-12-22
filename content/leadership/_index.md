@@ -1,4 +1,5 @@
 ---
+title: Leadership
 ---
 
 <section id="main" class="container">

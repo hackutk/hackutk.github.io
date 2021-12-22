@@ -1,4 +1,5 @@
 ---
+title: Resources
 ---
 
 <section id="main" class="container">
