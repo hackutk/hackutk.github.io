@@ -10,7 +10,7 @@
 	<div class="row">
 		<div class="4u 12u(mobilep)">
 		<h4>Calendar Notes</h4>
-		<p>Details regarding weekly meetings, CTFs, industry speakers, and other event specifics can be found on Slack and through the organization mailing list as the date draws near. Please <a href="contact.html">contact us</a> if you have any event suggestions!</p>
+		<p>Details regarding weekly meetings, CTFs, industry speakers, and other event specifics can be found on Discord and through the organization mailing list as the date draws near. Please <a href="contact.html">contact us</a> if you have any event suggestions!</p>
 		</div>
 		<div class="8u 12u(mobilep)">
 		<h4>Month Overview</h4>
@@ -27,6 +27,6 @@
 	<br>
 	<br>
 	<p>We hold regular meetings hosting interactive, educational presentations and skill sessions open to the entire student body on a wide range of techical subjects in the field of security. Our topics include but are not limited to reverse engineering, web security, penetration testing, cryptography, vehicle security, binary exploitation, network security, malware analysis, digital forensics, embedded security, incident response, and even some physical security topics like lockpicking.</p>
-	<h3>Meeting Details</h3> We post all of our meetings, CTFs, and events on our calendar. On it you can find details about meetings and upcoming industry speakers. If you're a student at UTK and would like to join HackUTK, please fill out <a href="https://goo.gl/forms/WBSZ9DwdjVdICwMf1">this Google form</a>. You will then be on the mailing list. Also, please <a href="http://slack.hackutk.com/">join our Slack</a> to stay up to date.
+	<h3>Meeting Details</h3> We post all of our meetings, CTFs, and events on our calendar. On it you can find details about meetings and upcoming industry speakers. If you're a student at UTK and would like to join HackUTK, please fill out <a href="https://goo.gl/forms/WBSZ9DwdjVdICwMf1">this Google form</a>. You will then be on the mailing list. Also, please <a href="/discord">join our Discord</a> to stay up to date.
 </div>
 </section>

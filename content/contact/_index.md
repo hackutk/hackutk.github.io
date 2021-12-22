@@ -22,9 +22,9 @@ We would love to hear from you!
 	<br>
 	<b>PGP:</b> <a href="public.asc">Public Key</a>
 </p>
-<h3>Slack</h3>
+<h3>Discord</h3>
 <p>
-	<b>Join the organization's group chat: </b> <a href="https://hackutk.slack.com" target="_blank">http://slack.hackutk.com/</a>
+	<b>Join the organization's group chat: </b> <a href="/discord" target="_blank">https://hackutk.org/discord</a>
 </p>
 <h2>Joining HackUTK</h2>
 <p>
