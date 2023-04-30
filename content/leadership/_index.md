@@ -13,6 +13,53 @@ title: Leadership
 </div>
 
 <header class="major">
+<h2>HackUTK Board 2022-2023</h2>
+<p> The board of officers from Fall 2022 to Spring 2023.</p>
+</header>
+<div class="row">
+<div class="6u 12u(narrower)">
+	<section class="box special">
+	<span class="image featured"><img src="/images/members/john-allbritten.jpg" alt="" /></span>
+	<a href="#" class="button alt nopadding fit-no-margin"><h3>John Allbritten</h3></a>
+	<p>President</p>
+	</section>
+</div>
+<div class="6u 12u(narrower)">
+	<section class="box special">
+	<span class="image featured"><img src="/images/members/jacob-leonard.jpg" alt="" /></span>
+	<a href="#" class="button alt nopadding fit-no-margin"><h3>Jacob Leonard</h3></a>
+	<p>Vice President</p>
+	</section>
+</div>
+</div>
+<div class="row">
+<div class="6u 12u(narrower)">
+	<section class="box special">
+	<span class="image featured"><img src="/images/members/gregory-brown.jpg" alt="" /></span>
+	<a href="#" class="button alt nopadding fit-no-margin"><h3>Gregory Brown</h3></a>
+	<p>Web Master</p>
+	</section>
+</div>
+<div class="6u 12u(narrower)">
+	<section class="box special">
+	<span class="image featured"><img src="" alt="" /></span>
+	<a href="#" class="button alt nopadding fit-no-margin"><h3>Justin Blanchard</h3></a>
+	<p>Teaching Director</p>
+	</section>
+</div>
+</div>
+<div class="row">
+<div class="6u 12u(narrower)">
+	<section class="box special">
+	<span class="image featured"><img src="" alt="" /></span>
+	<a href="#" class="button alt nopadding fit-no-margin"><h3>Aaron King</h3></a>
+	<p>Treasurer</p>
+	</section>
+</div>
+</div>
+</header>
+
+<header class="major">
 <h2>HackUTK Board 2021-2022</h2>
 <p> The board of officers from Fall 2021 to Spring 2022.</p>
 </header>
